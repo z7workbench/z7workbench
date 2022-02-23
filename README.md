@@ -8,7 +8,7 @@ I'm ZeroGo Yoosee. I'm an Android & Flutter developer.
 </a>
 
 ### Languages & repositories
-The language I mostly use is Dark & Kotlin. 
+The language I mostly use is Dart & Kotlin. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z7workbench&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
