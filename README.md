@@ -3,14 +3,12 @@ I'm ZeroGo Yoosee. I'm an Android & Flutter developer.
 
 [![ZeroGo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=z7workbench&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![ZeroGo's trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=z7workbench&theme=radical" />
 </a>
 
 ### Languages & repositories
-The language I mostly use is Kotlin. 
+The language I mostly use is Dark & Kotlin. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z7workbench&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
