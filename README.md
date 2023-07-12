@@ -15,7 +15,7 @@ The languages I mostly use are Dart & Kotlin.
 - Android & Flutter projects
    - ⌨️ Dev Monitor for developer to debug settings (Currently working on)
   
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=z7workbench&theme=radical&repo=DevMonitor)](https://github.com/z7workbench/minigames)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=z7workbench&theme=radical&repo=DevMonitor)](https://github.com/z7workbench/DevMonitor)
 
    - 🎮 Minigames written in Flutter/Dart (Maintaining)
 
