@@ -1,20 +1,22 @@
 ### Hi there 👋
 I'm ZeroGo Yoosee. I'm an Android & Flutter developer.
 
-[![ZeroGo's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=z7workbench&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![ZeroGo's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=z7workbench&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=z7workbench&theme=radical" />
 </a>
 
 ### Languages & repositories
-The language I mostly use is Dart & Kotlin. 
+The languages I mostly use are Dart & Kotlin. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z7workbench&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
 - Android & Flutter projects
+   - ⌨️ Dev Monitor for developer to debug settings (Currently working on)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=z7workbench&theme=radical&repo=DevMonitor)](https://github.com/z7workbench/minigames)
 
-   - 🎮 Minigames written in Flutter/Dart (Currently working on)
+   - 🎮 Minigames written in Flutter/Dart (Maintaining)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=z7workbench&theme=radical&repo=minigames)](https://github.com/z7workbench/minigames)
 
